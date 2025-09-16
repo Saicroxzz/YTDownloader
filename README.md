@@ -30,8 +30,8 @@ pip install pytubefix
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/YouTube-Downloader.git
-cd YouTube-Downloader
+git clone https://github.com/Saicroxzz/DownloadYoutube.git
+cd DownloadYoutube
 ```
 
 2. Ejecuta el programa:
